@@ -76,4 +76,27 @@ public	void setup ()
 	}
 	
 	
+	
+	
+	@Test
+	public void failTest3() {
+		logger.info("executing fail test");
+		Assert.assertEquals(driver.getTitle(), "llavaByKiran | Dashboard");
+		logger.info("fail test failed");
+	}
+	@Test
+	public void failTes4t() {
+		logger.info("executing fail test");
+		Assert.assertEquals(driver.getTitle(), "llavaByKiran | Log jyin");
+		logger.info("fail test failed");
+	}
+	
+	@Test
+	public void failTest5() {
+		logger.info("executing fail test");
+		Assert.assertEquals(driver.getTitle(), "llavaByKiran | Log in");
+		logger.info("fail test failed");
+	}
+	
+	
 }
