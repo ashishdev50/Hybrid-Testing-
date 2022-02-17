@@ -1,0 +1,231 @@
+2022-02-08 09:58:23,887  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 09:58:23,897  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 09:58:23,898 ERROR [main] propertyUtility:55 - value not found in config file
+2022-02-08 09:58:23,900  INFO [main] propertyUtility:65 - values assigned to the key is found asnull
+2022-02-08 09:59:03,576  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 09:59:03,586  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 09:59:03,587 ERROR [main] propertyUtility:55 - value not found in config file
+2022-02-08 09:59:03,607  INFO [main] propertyUtility:65 - values assigned to the key is found asnull
+2022-02-08 10:05:59,765  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:05:59,776  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:05:59,777  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:07:17,381  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:07:17,390  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:07:17,391  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:07:19,150  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:07:19,151  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:08:22,268  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:08:22,276  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:08:22,277  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:08:23,914  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:08:23,915  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:16:01,847  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:16:01,856  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:16:01,857  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:16:03,710  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:16:03,711  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:29:44,722  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:29:44,726  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:29:44,732  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:29:44,733  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:29:46,529  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:29:46,530  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:30:35,902  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:30:35,905  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:30:35,912  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:30:35,913  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:30:37,706  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:30:37,707  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:31:10,496  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:31:10,501  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:31:10,506  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:31:10,507  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:31:12,228  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:31:12,228  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:31:13,346  INFO [main] Baseclass:58 - executing fail test
+2022-02-08 10:31:13,355  INFO [main] Baseclass:60 - fail test failed
+2022-02-08 10:31:13,360  INFO [main] Baseclass:51 - executing login test
+2022-02-08 10:34:18,113  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:34:18,116  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:34:18,121  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:34:18,122  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:34:20,071  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:34:20,072  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:34:21,606  INFO [main] Baseclass:58 - executing fail test
+2022-02-08 10:34:21,615  INFO [main] Baseclass:60 - fail test failed
+2022-02-08 10:34:21,625  INFO [main] Baseclass:51 - executing login test
+2022-02-08 10:34:46,010  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:34:46,013  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:34:46,018  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:34:46,019  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:34:47,716  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:34:47,717  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:34:49,166  INFO [main] Baseclass:58 - executing fail test
+2022-02-08 10:34:49,178  INFO [main] Baseclass:60 - fail test failed
+2022-02-08 10:34:49,191  INFO [main] Baseclass:51 - executing login test
+2022-02-08 10:36:39,893  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:36:39,896  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:36:39,903  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:36:39,903  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:36:41,592  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:36:41,593  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:36:43,170  INFO [main] Baseclass:66 - executing fail test
+2022-02-08 10:36:58,929  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:36:58,933  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:36:58,939  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:36:58,941  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:37:00,688  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:37:00,689  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:37:02,321  INFO [main] Baseclass:66 - executing fail test
+2022-02-08 10:37:02,339  INFO [main] Baseclass:51 - executing login test
+2022-02-08 10:37:32,606  INFO [main] Baseclass:58 - executing fail test
+2022-02-08 10:37:32,615  INFO [main] Baseclass:60 - fail test failed
+2022-02-08 10:40:05,104  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:40:05,108  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:40:05,114  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:40:05,115  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:40:06,928  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:40:06,929  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:40:08,686  INFO [main] Baseclass:66 - executing fail test
+2022-02-08 10:41:20,827  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:41:20,831  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:41:20,837  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:41:20,838  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:41:22,550  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:41:22,551  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:41:24,086  INFO [main] Baseclass:66 - executing fail test
+2022-02-08 10:41:38,439  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:41:38,444  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:41:38,454  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:41:38,455  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:41:40,193  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:41:40,194  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:41:41,699  INFO [main] Baseclass:66 - executing fail test
+2022-02-08 10:46:15,564  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:46:15,568  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:46:15,574  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:46:15,575  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:46:17,281  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:46:17,282  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:46:18,839  INFO [main] Baseclass:78 - executing fail test
+2022-02-08 10:46:18,855  INFO [main] Baseclass:63 - executing login test
+2022-02-08 10:46:18,859  INFO [main] Baseclass:70 - executing fail test
+2022-02-08 10:46:18,866  INFO [main] Baseclass:72 - fail test failed
+2022-02-08 10:46:48,024  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:46:48,027  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:46:48,033  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:46:48,034  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:46:49,779  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:46:49,779  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:46:51,372  INFO [main] Baseclass:78 - executing fail test
+2022-02-08 10:46:51,392  INFO [main] Baseclass:70 - executing fail test
+2022-02-08 10:46:51,399  INFO [main] Baseclass:72 - fail test failed
+2022-02-08 10:46:51,424  INFO [main] Baseclass:63 - executing login test
+2022-02-08 10:52:17,142  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:52:17,145  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:52:17,151  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:52:17,151  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:52:18,897  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:52:18,897  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:52:20,701  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 10:52:20,719  INFO [main] Baseclass:71 - executing fail test
+2022-02-08 10:52:20,727  INFO [main] Baseclass:73 - fail test failed
+2022-02-08 10:52:26,621  INFO [main] Baseclass:64 - executing login test
+2022-02-08 10:59:44,884  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 10:59:44,887  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 10:59:44,893  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 10:59:44,894  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 10:59:46,812  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 10:59:46,813  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 10:59:47,379  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 11:01:21,426  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:01:21,430  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:01:21,436  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:01:21,437  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:01:23,422  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:01:23,423  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:01:23,968  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 11:02:49,801  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:02:49,804  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:02:49,807  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:02:49,808  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:02:51,136  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:02:51,136  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:02:51,507  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 11:04:04,360  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:04:04,362  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:04:04,364  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:04:04,365  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:04:05,618  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:04:05,619  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:04:05,933  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 11:05:29,042  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:05:29,044  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:05:29,047  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:05:29,047  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:05:30,197  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:05:30,198  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:05:30,503  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 11:05:54,931  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:05:54,933  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:05:54,936  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:05:54,936  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:05:56,064  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:05:56,064  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:05:56,357  INFO [main] Baseclass:79 - executing fail test
+2022-02-08 11:06:37,276  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:06:37,278  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:06:37,281  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:06:37,281  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:06:38,429  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:06:38,430  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:06:38,766  INFO [main] Baseclass:73 - executing fail test
+2022-02-08 11:07:51,691  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:07:51,693  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:07:51,696  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:07:51,696  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:07:52,810  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:07:52,811  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:07:53,096  INFO [main] Baseclass:73 - executing fail test
+2022-02-08 11:08:54,212  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 11:08:54,214  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 11:08:54,217  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 11:08:54,217  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 11:08:55,335  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 11:08:55,335  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 11:08:55,650  INFO [main] Baseclass:73 - executing fail test
+2022-02-08 12:24:58,873  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-08 12:24:58,876  INFO [main] Baseclass:34 - initilization browser
+2022-02-08 12:24:58,881  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-08 12:24:58,881  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-08 12:24:59,948  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-08 12:24:59,948  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-08 12:25:00,983  INFO [main] Baseclass:73 - executing fail test
+2022-02-09 09:35:43,428  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-09 09:35:43,430  INFO [main] Baseclass:34 - initilization browser
+2022-02-09 09:35:43,434  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-09 09:35:43,434  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-09 09:35:45,200  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-09 09:35:45,200  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-09 09:35:46,314  INFO [main] Baseclass:73 - executing fail test
+2022-02-09 09:44:23,339  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-09 09:44:23,341  INFO [main] Baseclass:34 - initilization browser
+2022-02-09 09:44:23,344  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-09 09:44:23,345  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-09 09:44:24,443  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-09 09:44:24,444  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-09 09:44:25,511  INFO [main] Baseclass:73 - executing fail test
+2022-02-17 17:53:51,043  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-17 17:53:51,047  INFO [main] Baseclass:34 - initilization browser
+2022-02-17 17:53:51,053  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-17 17:53:51,054  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-17 17:53:54,362  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-17 17:53:54,364  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-17 17:53:56,933  INFO [main] Baseclass:73 - executing fail test
+2022-02-17 18:20:58,940  INFO [main] Baseclass:20 - inside beforesuite
+2022-02-17 18:20:58,942  INFO [main] Baseclass:34 - initilization browser
+2022-02-17 18:20:58,945  INFO [main] propertyUtility:65 - reading a property file for a key:-browser
+2022-02-17 18:20:58,945  INFO [main] propertyUtility:65 - values assigned to the key is found aschrome
+2022-02-17 18:21:00,368  INFO [main] propertyUtility:65 - reading a property file for a key:-url
+2022-02-17 18:21:00,368  INFO [main] propertyUtility:65 - values assigned to the key is found asfile:///C:/Users/Ashish/Downloads/javabykiran-Selenium-Softwares/javabykiran-Selenium-Softwares/Offline%20Website/index.html
+2022-02-17 18:21:02,428  INFO [main] Baseclass:73 - executing fail test
